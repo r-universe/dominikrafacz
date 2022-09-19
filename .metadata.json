@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "package": "deepdep",
+    "oncran": true
+  }
+]
